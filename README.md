@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/atrator.gif" width="480" alt="Atrator / buraco negro em roxo">
+  <img src="atrator.gif" width="480" alt="Atrator / buraco negro em roxo">
 </p>
 
-<h1 align="center">SEU NOME</h1>
+<h1 align="center">mrdavcompile</h1>
 
 <p align="center">
   <em>Dynamical systems · Optimization · Reconfigurable hardware</em><br>
@@ -89,13 +89,12 @@ $$\dot{x} = f(x,\mu)$$
 ## 📈 Activity · Atividade
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=midnight-purple&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=midnight-purple&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mrdavcompile&show_icons=true&theme=midnight-purple&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdavcompile&layout=compact&theme=midnight-purple&hide_border=true" height="160" />
 </p>
 
 ## 📫 Contact · Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6A0DAD?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO)
-[![Email](https://img.shields.io/badge/Email-8A2BE2?style=flat-square&logo=gmail&logoColor=white)](mailto:seu@email.com)
+...
 
 <p align="center"><sub>"Tudo converge para algum atrator." · "Everything converges to some attractor." 🕳️</sub></p>
