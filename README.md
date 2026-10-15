@@ -28,7 +28,7 @@
 
 Estudante de Ciência da Computação com base em **processos estocásticos**,
 **otimização convexa** e **dinâmica não linear**. Neste perfil testo scripts de
-pesquisa diariamente: simulações, protótipos e experimentos ainda em fase de bancada.
+pesquisa diariamente: simulações, protótipos e experimentos ainda em fase de validação.
 
 
 ### 🔬 Linhas de pesquisa
