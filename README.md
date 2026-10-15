@@ -31,7 +31,6 @@ Estudante de Ciência da Computação com base em **processos estocásticos**,
 **otimização convexa** e **dinâmica não linear**. Neste perfil testo scripts de
 pesquisa diariamente: simulações, protótipos e experimentos ainda em fase de bancada.
 
-$$\dot{x} = f(x,\mu)$$
 
 ### 🔬 Linhas de pesquisa
 
@@ -58,7 +57,6 @@ Computer Science student with a research background in **stochastic processes**,
 **convex optimization** and **nonlinear dynamics**. On this profile I test
 research scripts daily: simulations, prototypes and experiments still at the bench stage.
 
-$$\dot{x} = f(x,\mu)$$
 
 ### 🔬 Research areas
 
