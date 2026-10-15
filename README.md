@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="atrator.gif" width="480" alt="Atrator / buraco negro em roxo">
+  <img src="atrator.gif" width="700" alt="Atrator / buraco negro em roxo">
 </p>
 
 <h1 align="center">mrdavcompile</h1>
