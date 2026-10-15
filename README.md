@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="atrator.gif" width="100%" alt="mrdavcompile · Atrator / buraco negro em roxo">
+  <img src="atratorbanner.gif" width="100%" alt="mrdavcompile · Atrator / buraco negro em roxo">
 </p>
-<h1 align="center">mrdavcompile</h1>
 
 <p align="center">
   <em>Dynamical systems · Optimization · Reconfigurable hardware</em><br>
